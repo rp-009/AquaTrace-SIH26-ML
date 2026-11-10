@@ -44,7 +44,7 @@ To run this project locally, you will need Python installed on your system.
 
 **1. Clone the repository:**
 ```bash
-git https://github.com/rp-009/AquaTrace-SIH26-ML/
+git https://github.com/rp-009/AquaTrace-SIH26-ML
 cd AquaTrace-SIH26-ML
 ```
 
