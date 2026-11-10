@@ -2,7 +2,7 @@
 
 This repository contains the machine learning engine for AquaTrace, developed for the Smart India Hackathon (SIH) 2026. It provides the end-to-end pipeline that powers the platform's predictive capabilities by correlating historical fish landing data with marine biogeochemistry and weather telemetry. The model forecasts coastal environmental risks and utilizes Explainable AI (SHAP) to translate complex data into transparent, actionable insights.
 
-The complete full-stack application is in this repository : https://github.com/rp-009/AquaTrace-SIH26-ML/
+The complete full-stack application is in this repository : [https://github.com/samridha24/AquaTrace](https://github.com/samridha24/AquaTrace)
 
 ## Features
 * **End-to-End ML Pipeline:** Fully contained in a single Jupyter Notebook (`SIH_26_ML.ipynb`).
